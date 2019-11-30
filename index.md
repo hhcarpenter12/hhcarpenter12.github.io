@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Harry Carpenter's Github Page!
 
-You can use the [editor on GitHub](https://github.com/hhcarpenter12/hhcarpenter12.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here is the list of project's I've been working on as a hobby:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Swimming Race Pace Tracker - November 2019 - Present
 
-### Markdown
+Project link: (https://github.com/hhcarpenter12/my-swim-workout/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hhcarpenter12/hhcarpenter12.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This is a swimming race pace tracker I wrote independently with Angular 7. Based on swimmers' best times, the app determines the target splits for an entered distance. Then, it converts them based on the pool configuration (short course yards, short course meters, long course meters). It also considers target splits for individual medley (butterfly, backstroke, breastroke, freestyle) events. Then, the swim coach can enter the number of repetitions, the amount of rest between each repetition, and the pace to hold within each repetition. Swim coaches can also import/export CSV files, so they can update personal bests and other information about the workout. I hope this would be a major time saver for swim coaches, especially for those who manage a large team, have to constantly switch back/forth from short course to long course, and have swimmers that do so many different events.
